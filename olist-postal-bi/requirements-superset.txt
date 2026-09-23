@@ -1,0 +1,5 @@
+apache-superset[postgres]==6.1.0
+Flask-Caching==2.3.1
+cachetools==7.2.0
+rich==15.0.0
+

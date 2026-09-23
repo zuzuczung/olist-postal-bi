@@ -1,0 +1,8 @@
+.venv/
+.superset-venv/
+.env
+data/raw/
+artifacts/
+runtime/
+__pycache__/
+*.pyc

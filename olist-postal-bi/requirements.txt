@@ -1,0 +1,4 @@
+kagglehub==0.3.13
+psycopg[binary]==3.2.10
+python-dotenv==1.1.1
+
