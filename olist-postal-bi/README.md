@@ -4,6 +4,8 @@ Project luyện SQL/BI theo góc nhìn nghiệp vụ bưu chính: phân tích **
 
 Xem bản báo cáo tóm tắt tại [`docs/project_report.md`](docs/project_report.md).
 
+Báo cáo đã bổ sung **phân tích và đánh giá theo 5 bước**: xác định vấn đề, thu thập dữ liệu, làm sạch dữ liệu, phân tích dữ liệu và diễn giải kết quả; kèm hạn chế, ưu tiên nghiệp vụ và các hạng mục đề xuất chưa triển khai.
+
 ## Kết quả đã triển khai
 
 - Project: `/Users/zuzuczung/Documents/ChatGPT/DA/olist-postal-bi`
